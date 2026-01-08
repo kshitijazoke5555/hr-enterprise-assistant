@@ -1,0 +1,16 @@
+policy_id,policy_name,policy_description,policy_type,department,region,effective_from
+CP001,Working Hours Policy,All employees are required to work from 9 AM to 6 PM Monday to Friday.,common,all,all,31/12/2025
+CP002,Attendance Policy,Employees must mark daily attendance using the official attendance system,common,all,all,31/12/2025
+CP003,Casual Leave Policy,Employees are entitled to 12 casual leaves per year,common,all,all,31/12/2025
+CP004,Sick Leave Policy,Employees are entitled to 8 sick leaves annually.,common,all,all,31/12/2025
+CP005,Probation Policy,All newly joined employees will be on probation for a period of 6 months,common,all,all,31/12/2025
+CP006,Notice Period Policy,Employees are required to serve a notice period of 30 days before resignation,common,all,all,31/12/2025
+CP007,Work From Home Policy,Work from home is allowed with prior approval from the reporting manager,common,all,all,31/12/2025
+CP008,Dress Code Policy,Employees must follow a business casual dress code during working hours,common,all,all,31/12/2025
+CP009,Holiday Policy,The official company holiday list is applicable to all employees,common,all,all,31/12/2025
+CP0010,Payroll Policy,Salaries are credited on the last working day of every month,common,all,all,31/12/2025
+CP0011,Leave Application Policy,All leave requests must be submitted through the HR portal,common,all,all,31/12/2025
+CP0012,Code of Conduct Policy,Employees must maintain professional behavior and follow company ethics,common,all,all,31/12/2025
+CP0013,Training Policy,All new employees must complete mandatory onboarding and compliance training,common,all,all,31/12/2025
+CP0014,Overtime Policy,Overtime work is subject to approval and company guidelines,common,all,all,31/12/2025
+CP0015,HR Communication Policy,All HR-related communication must be done via official company channels,common,all,all,31/12/2025

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>frontend</title>
+  </head>
+  <body>
+    <div id="root">Loading application...</div>
+
+    <script>
+      // Show runtime errors directly in the page to help debugging when the app fails to boot
+      window.addEventListener('error', function (ev) {
+        try {
+          var root = document.getElementById('root');
+          if (root) root.innerText = 'Application error: ' + (ev && ev.message ? ev.message : 'see console');
+        } catch (e) { /* ignore */ }
+      });
+      window.addEventListener('unhandledrejection', function (ev) {
+        try {
+          var root = document.getElementById('root');
+          if (root) root.innerText = 'Unhandled promise rejection: ' + (ev && ev.reason ? (ev.reason.message || ev.reason) : 'see console');
+        } catch (e) { /* ignore */ }
+      });
+    </script>
+
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,27 @@
+# Web Server
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+
+# LangChain Core & AI
+langchain
+langchain-community
+langchain-google-genai
+langchain-text-splitters
+
+# Vector Database
+chromadb
+
+# Document Parsing
+pypdf
+
+# Database (Chat History)
+sqlalchemy
+
+# Utilities
+tqdm
+pydantic-settings
+msal
+python-docx
+requests

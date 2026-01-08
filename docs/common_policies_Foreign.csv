@@ -1,0 +1,16 @@
+policy_id,policy_name,policy_description,policy_type,department,effective_from
+FCP001,Working Hours Policy,"All employees are required to work 8 hours per day, Monday to Friday, within the time window of 8:00 AM to 6:00 PM, as per departmental scheduling",common,all,31/12/2025
+FCP002,Attendance Policy,"All employees, including remote and onsite staff, must record their daily attendance through the company-approved attendance system",common,all,31/12/2025
+FCP003,Annual Paid Leave,"Employees are entitled to 20–30 days of paid annual leave per year, as per company policy",common,all,31/12/2025
+FCP004,Sick Leave Policy,Employees are entitled to paid sick leave when medically unfit. A medical certificate may be required for extended or consecutive sick leave,common,all,31/12/2025
+FCP005,Probation Policy,"All newly hired employees will be subject to a probation period of up to six (6) months, as per company policy and applicable employment standards",common,all,31/12/2025
+FCP006,Notice Period Policy,Employees are required to serve a notice period of 30 days (or as specified in their employment contract) prior to resignation,common,all,31/12/2025
+FCP007,Work From Home Policy,Work from home (remote work) is permitted with prior approval from the reporting manager or as per departmental guidelines,common,all,31/12/2025
+FCP008,Dress Code Policy,"A business casual dress code must be maintained during working hours, with exceptions as required for official events",common,all,31/12/2025
+FCP009,Holiday Policy,All employees are entitled to observe the official company holidays as per the published schedule,common,all,31/12/2025
+FCP0010,Payroll Policy,"Salaries are paid monthly, typically on the last working day of the month, as per company payroll policies",common,all,31/12/2025
+FCP0011,Leave Application Policy,Employees are required to submit all leave requests via the HR portal or designated leave system.,common,all,31/12/2025
+FCP0012,Code of Conduct Policy,All employees must demonstrate professional behavior and comply with the company’s ethical standards,common,all,31/12/2025
+FCP0013,Training Policy,New employees must complete all mandatory onboarding and compliance training programs in accordance with company guidelines,common,all,31/12/2025
+FCP0014,Overtime Policy,Employees may work overtime only with prior approval and in accordance with company guidelines,common,all,31/12/2025
+FCP0015,HR Communication Policy,Employees are required to use official company channels for all HR-related communications,common,all,31/12/2025
