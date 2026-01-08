@@ -3,16 +3,19 @@ __pycache__/
 *.pyc
 venv/
 env/
-
-# Environment variables
 .env
 
 # Node
 node_modules/
+dist
+dist-ssr
+*.local
 
 # Logs
 *.log
 
-# OS
+# OS / Editor
 .DS_Store
 Thumbs.db
+.vscode/
+.idea
